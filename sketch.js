@@ -16,7 +16,7 @@ var track, car1_img, car2_img;
 var bg;
 
 function preload(){
-    s=loadSound("sound/sliding.mp3")
+    s=loadSound("sliding.mp3")
 f2 = loadImage("f1.png");
   track = loadImage("track.jpg");
   car1_img = loadImage("car1.png");
